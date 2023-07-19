@@ -1,0 +1,2 @@
+# InvestmentGUI
+GUI based calculator
